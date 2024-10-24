@@ -29,8 +29,10 @@
 
 ### 靶机系统
 
-- 应急响应靶机      链接：https://pan.quark.cn/s/7579cefb8c54   提取码：WE4v
-- 
+- 应急响应靶机      			链接：https://pan.quark.cn/s/7579cefb8c54   提取码：WE4v
+- ATT&CK红队评估靶机    链接: https://pan.baidu.com/s/1ZrTfG3Z0GKLXY9inC12CRQ?pwd=vkdx 提取码: vkdx 
+  
+  
 
 ## 贡献
 
