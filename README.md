@@ -32,7 +32,12 @@
 - 应急响应靶机      			链接：https://pan.quark.cn/s/7579cefb8c54   提取码：WE4v
 - ATT&CK红队评估靶机    链接: https://pan.baidu.com/s/1ZrTfG3Z0GKLXY9inC12CRQ?pwd=vkdx 提取码: vkdx 
   
-  
+
+### AI
+
+国内聚合式AI工具，免翻墙使用ChatGPT4、Claude3.5  		 https://ai.ashuiai.com/auth/register?inviteCode=W52SEWX92
+
+
 
 ## 贡献
 
