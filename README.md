@@ -35,9 +35,29 @@
 
 ### AI
 
-国内聚合式AI工具，免翻墙使用ChatGPT4、Claude3.5  		 https://ai.ashuiai.com/auth/register?inviteCode=W52SEWX92
+国内聚合式AI工具，免翻墙使用ChatGPT4、Claude3.5等        		 https://ai.ashuiai.com/auth/register?inviteCode=W52SEWX92
 
+### 信息收集
 
+#### 社工查询
+
+- 天眼查(公司/企业/CEO/法人)          https://www.tianyancha.com/
+
+- reg007(注册信息查询)                    https://www.reg007.com/
+
+### 病毒防御自检
+
+- virustotal在线病毒查杀                         https://www.virustotal.com/
+
+- 腾讯哈勃分析系统                                https://habo.qq.com/
+
+* virscan(病毒木马在线查杀                   http://www.virscan.org/
+
+### webshell查杀
+
+- 阿里云Webshell检测平台                           https://ti.aliyun.com/#/webshell
+
+- 河马webshell在线查杀                               https://n.shellpub.com/
 
 ## 贡献
 
@@ -46,6 +66,6 @@
 1. 提交Issue报告错误或建议新资源。
 2. Fork本仓库并提交Pull Request。
 
-
-
 资源敏感，随时失效!!
+
+**【免责声明】本项目所涉及的技术、思路和工具仅供学习，任何人不得将其用于非法用途，不得将其用于非授权渗透测试，否则后果自行承担，与本项目无关。**
