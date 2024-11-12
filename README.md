@@ -66,7 +66,7 @@ EHole(棱洞)3.0 红队重点攻击系统指纹探测工具：https://github.com
 
 ## AI
 
-国内聚合式AI工具，免翻墙使用ChatGPT4、Claude3.5等： https://ai.ashuiai.com/auth/register?inviteCode=W52SEWX92
+聚合式AI，免翻墙使用ChatGPT4、Claude3.5等： https://ai.ashuiai.com/auth/register?inviteCode=W52SEWX92
 
 ## 贡献
 
