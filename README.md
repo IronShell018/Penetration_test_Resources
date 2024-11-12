@@ -6,58 +6,67 @@
 >
 > 开源分享、欢迎Star,能一起参与那就更棒啦!!!
 
-## 简介
+# 简介
 
 本项目旨在收集和整理与网络安全和渗透测试相关的资源，涵盖工具、文档、教程等内容。希望这些资源能帮助大家更好地学习和掌握网络安全知识。
 
-## 资源列表
+# 资源列表
 
-### 工具
-
-- 应急响应工具箱    链接: https://pan.quark.cn/s/6f374064e920
-
-### 文档
-
-- [OWASP Top Ten](https://owasp.org/www-project-top-ten/) - 常见Web应用程序安全风险的列表
-- [NIST SP 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final) - 技术指南：信息安全测试和评估
-
-### 教程
+## 教程
 
 - Kali渗透安全高级工程师进阶班		链接: https://pan.baidu.com/s/19F8qndnxj-Nhxp-E2p873Q?pwd=qqnn
 - 从0开始学习网络安全开发         链接: https://pan.quark.cn/s/25b5e22da2ab
 - [TryHackMe](https://tryhackme.com/) - 在线渗透测试学习平台
 
-### 靶机系统
+## 工具
+
+### 信息收集
+
+敏感信息收集：https://github.com/obheda12/GitDorker
+
+#### 社工查询
+
+- 天眼查(公司/企业/CEO/法人)： https://www.tianyancha.com/
+
+- reg007(注册信息查询)： https://www.reg007.com/
+
+### 蓝队工具
+
+- 应急响应工具箱    链接: https://pan.quark.cn/s/6f374064e920
+
+#### webshell查杀
+
+- 阿里云Webshell检测平台： https://ti.aliyun.com/#/webshell
+- 河马webshell在线查杀： https://n.shellpub.com/
+
+#### 病毒防御自检
+
+- virustotal在线病毒查杀：https://www.virustotal.com/
+
+- 腾讯哈勃分析系统：https://habo.qq.com/
+
+* virscan(病毒木马在线查杀：http://www.virscan.org/
+
+### 红队
+
+红队中易被攻击的一些重点系统漏洞整理：https://github.com/r0eXpeR/redteam_vul
+
+EHole(棱洞)3.0 红队重点攻击系统指纹探测工具：https://github.com/EdgeSecurityTeam/EHole
+
+## 文档
+
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/) - 常见Web应用程序安全风险的列表
+- [NIST SP 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final) - 技术指南：信息安全测试和评估
+
+## 靶机系统
 
 - 应急响应靶机      			链接：https://pan.quark.cn/s/7579cefb8c54   提取码：WE4v
 - ATT&CK红队评估靶机    链接: https://pan.baidu.com/s/1ZrTfG3Z0GKLXY9inC12CRQ?pwd=vkdx 提取码: vkdx 
   
 
-### AI
+## AI
 
-国内聚合式AI工具，免翻墙使用ChatGPT4、Claude3.5等        		 https://ai.ashuiai.com/auth/register?inviteCode=W52SEWX92
-
-### 信息收集
-
-#### 社工查询
-
-- 天眼查(公司/企业/CEO/法人)          https://www.tianyancha.com/
-
-- reg007(注册信息查询)                    https://www.reg007.com/
-
-### 病毒防御自检
-
-- virustotal在线病毒查杀                         https://www.virustotal.com/
-
-- 腾讯哈勃分析系统                                https://habo.qq.com/
-
-* virscan(病毒木马在线查杀                   http://www.virscan.org/
-
-### webshell查杀
-
-- 阿里云Webshell检测平台                           https://ti.aliyun.com/#/webshell
-
-- 河马webshell在线查杀                               https://n.shellpub.com/
+国内聚合式AI工具，免翻墙使用ChatGPT4、Claude3.5等： https://ai.ashuiai.com/auth/register?inviteCode=W52SEWX92
 
 ## 贡献
 
