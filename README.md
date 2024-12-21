@@ -49,6 +49,8 @@
 
 ### 红队
 
+红队标准渗透测试流程+常用命令：https://github.com/foobarto/redteam-notebook
+
 红队中易被攻击的一些重点系统漏洞整理：https://github.com/r0eXpeR/redteam_vul
 
 EHole(棱洞)3.0 红队重点攻击系统指纹探测工具：https://github.com/EdgeSecurityTeam/EHole
@@ -63,10 +65,6 @@ EHole(棱洞)3.0 红队重点攻击系统指纹探测工具：https://github.com
 - 应急响应靶机      			链接：https://pan.quark.cn/s/7579cefb8c54   提取码：WE4v
 - ATT&CK红队评估靶机    链接: https://pan.baidu.com/s/1ZrTfG3Z0GKLXY9inC12CRQ?pwd=vkdx 提取码: vkdx 
   
-
-## AI
-
-聚合式AI，免翻墙使用ChatGPT4、Claude3.5等： https://ai.ashuiai.com/auth/register?inviteCode=W52SEWX92
 
 ## 贡献
 
