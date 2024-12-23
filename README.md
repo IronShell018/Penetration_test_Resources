@@ -34,7 +34,7 @@
 
 - 应急响应工具箱    链接: https://pan.quark.cn/s/6f374064e920
 
-#### webshell查杀
+#### Webshell查杀
 
 - 阿里云Webshell检测平台： https://ti.aliyun.com/#/webshell
 - 河马webshell在线查杀： https://n.shellpub.com/
@@ -57,8 +57,23 @@ EHole(棱洞)3.0 红队重点攻击系统指纹探测工具：https://github.com
 
 ## 文档
 
+- 各类安全脑图  https://github.com/phith0n/Mind-Map
+
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten/) - 常见Web应用程序安全风险的列表
 - [NIST SP 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final) - 技术指南：信息安全测试和评估
+
+## 开源项目
+
+- java面试指南：https://github.com/Snailclimb/JavaGuide
+- 关于python面试题：https://github.com/taizilongxu/interview_python
+- Python - 100天从新手到大师：https://github.com/jackfrued/Python-100-Days
+- 技术面试必备基础知识：https://github.com/CyC2018/CS-Notes
+- Java 工程师进阶知识完全扫盲：  https://github.com/doocs/advanced-java
+- awesome-web-security： https://github.com/qazbnm456/awesome-web-security/tree/master
+- Awesome-Hacking：https://github.com/Hack-with-Github/Awesome-Hacking
+- 技术面试题目：https://github.com/0voice/interview_internal_reference
+- 反向面试：https://github.com/perklet/reverse-interview-zh
+- 专为程序员编写的英语学习指南：https://github.com/perklet/reverse-interview-zh
 
 ## 靶机系统
 
